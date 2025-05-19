@@ -25,3 +25,5 @@ Once the text was summarized, the results were printed clearly for the user to r
 This tool demonstrates a practical use of NLP in making large text content more digestible. It can be applied in real-world scenarios such as summarizing news articles, legal documents, educational material, business reports, and customer feedback. The project not only strengthened my understanding of transformer models but also gave me hands-on experience in integrating AI models into real tools.
 
 Overall, this task was a great learning experience. I learned how to build an end-to-end NLP application, use pre-trained models, handle user input, and work with GitHub for sharing code. It gave me a strong foundation for further exploration in Natural Language Processing and real-world AI projects.
+
+![Image](https://github.com/user-attachments/assets/b2883c2b-ca92-46cc-8c5a-2c12d87d3021)
